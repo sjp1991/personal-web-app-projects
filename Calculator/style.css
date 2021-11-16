@@ -1,0 +1,48 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css");
+
+.calcDisplay {
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#numDisplay {
+    background-color: #eee;
+    box-shadow: -2px -2px 3px black;
+}
+
+.btn , .btn:hover {
+    width: 55px;
+    box-shadow: 2px 2px 3px black;
+    text-shadow: 0.5px 0.5px 1px black;
+}
+
+.calcBodyNum {
+    width: 200px;
+}
+
+.calcBodyOp {
+    width: 80px;
+}
+
+.calcBody {
+    width: 320px;
+    border-radius: 5px;
+    background-color: #0a559a;
+    box-shadow: 3px 3px 0px black;
+    margin-top: 10%;
+}
+
+.btnNum, #btnDot {
+    background-color: white;
+    color: #084298;
+    border-color: black;
+    text-shadow: none;
+}
+
+.btnNum:hover, #btnDot:hover {
+    background-color: #eee;
+    color: #084298;
+    border-color: black;
+    text-shadow: none;
+}
